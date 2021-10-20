@@ -1,0 +1,55 @@
+<p-panel>
+    <ng-template pTemplate="header">
+        <p-dropdown
+        [options]="allBrands" 
+        [(ngModel)]="this.selectedBrand"
+        placeholder="All Brands"
+        (onChange)='onChangeBrand()'
+        optionLabel="label">
+        </p-dropdown> 
+    </ng-template>
+    <p-table [value]="this.cars"  [autoLayout]="true">
+        <ng-template pTemplate="header">
+            <tr>
+                <th>vin</th>
+                <th>year</th>
+                <th>brand</th>
+                <th>color</th>
+            </tr>
+        </ng-template>
+        <ng-template pTemplate="body" let-car>
+            <tr>
+                <td>{{car.vin}}</td>
+                <td>{{car.year}}</td>
+                <td>{{car.brand}}</td>
+                <td>{{car.color}}</td>
+            </tr>
+        </ng-template>
+    </p-table>
+    <ng-template pTemplate="footer">
+        <p-paginator  
+            #pp
+            *ngIf="this.rows<this.totalRecords"
+            [rows]="this.rows" 
+            [totalRecords]="this.totalRecords"
+            [rowsPerPageOptions]="[10,20,30]" 
+            (onPageChange)="onPageChange($event)">
+        </p-paginator>
+    </ng-template>
+</p-panel>
+
+
+<!-- <p-panel>
+    <ng-template pTemplate="header">
+        <p-dropdown [options]="dailies" optionLabel="label"></p-dropdown>
+        <!-- <div style="text-align: left;">
+            <p-button icon="pi pi-search"></p-button>
+            <p-button icon="pi pi-calendar" styleClass="p-button-success"></p-button>
+            <p-button icon="pi pi-times" styleClass="p-button-danger"></p-button>
+        </div> -->
+    <!-- </ng-template>
+    Body Content
+    <ng-template pTemplate="footer">
+        Footer content here
+    </ng-template>
+</p-panel> -->

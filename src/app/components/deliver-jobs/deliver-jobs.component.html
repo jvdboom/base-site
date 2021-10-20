@@ -1,0 +1,63 @@
+<div class="grid">
+    <div class="col-12"></div>
+    <div class="col-1">
+        <div class="card">
+            <h4>View</h4>
+            <div class="field-checkbox">
+                <p-checkbox (onChange)="onChange($event)" name="group1" value="SD" [(ngModel)]="selectedView" inputId="ny" class="p-mb-2 p-d-block">
+                </p-checkbox>
+                <label for="sd">SD</label>
+            </div>
+            <div class="field-checkbox">
+                <p-checkbox (onChange)="onChange($event)" name="group1" value="MD" [(ngModel)]="selectedView" inputId="sf" class="p-mb-2 p-d-block">
+                </p-checkbox>
+                <label for="md">MD</label>
+            </div>
+            <div class="field-checkbox">
+                <p-checkbox (onChange)="onChange($event)" name="group1" value="MD1" [(ngModel)]="selectedView" inputId="la" class="p-d-block">
+                </p-checkbox>
+                <label for="md1">MD+1</label>
+            </div>
+            <div class="field-checkbox">
+                <p-checkbox (onChange)="onChange($event)" name="group1" value="TP" [(ngModel)]="selectedView" inputId="sf" class="p-mb-2 p-d-block">
+                </p-checkbox>
+                <label for="tp">TP</label>
+            </div>
+            <div class="field-checkbox">
+                <p-checkbox (onChange)="onChange($event)" name="group1" value="Uitwijk" [(ngModel)]="selectedView" inputId="ch" class="p-d-block">
+                </p-checkbox>
+                <label for="uitwijk">Uitwijk</label>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-8">
+        <p-table [value]="this.cars"  [autoLayout]="true">
+            <ng-template pTemplate="header">
+                <tr>
+                    <th>Vin</th>
+                    <th>Brand</th>
+                </tr>
+            </ng-template>
+            <ng-template pTemplate="body" let-car>
+                <tr>
+                    <td>{{car.vin}}</td>
+                    <td>{{car.brand}}</td>
+                </tr>
+            </ng-template>
+        </p-table>
+    </div>
+
+    <div class="col-3">
+        <div class="card">
+            <div class="field-checkbox">
+                <p-button label="Deliver SD" (onClick)="onClickDeliverSD()"></p-button>
+            </div>
+        </div>
+        <div class="field-checkbox">
+            <p-button label="Deliver Jobs" (onClick)="onClickDeliverJobs()"></p-button>
+        </div>
+    </div>
+
+
+</div>

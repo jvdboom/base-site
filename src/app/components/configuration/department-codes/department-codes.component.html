@@ -1,0 +1,128 @@
+<div class="col-10">
+    <button pButton type="button" label="Save" (click)="handleClick($event)"></button>
+</div>
+<div class="grid">
+    <div class="col-2">
+        <h2>Emailcodes</h2>
+    </div>
+    <!-- <div class="col-10">
+        <button pButton type="button" label="Save" (click)="handleClick($event)"></button>
+    </div> -->
+    <div class="col-11">
+        <div class="card">
+            <p-table [value]="this.departmentCodes" dataKey="DepartmentCode" [autoLayout]="true">
+                <ng-template pTemplate="header">
+                    <tr>
+                        <th pSortableColumn="DepartmentCode">DepartmentCode<p-sortIcon field="DepartmentCode"></p-sortIcon></th>                        
+                        <th>CC</th>
+                        <th>SubjectTP</th>
+                        <th>BCC</th>
+                        <th>SubjectControl</th>
+                        <th>To</th>
+                        <th>From</th>
+                    </tr>
+                </ng-template>
+                <ng-template pTemplate="body" let-departmentCode>
+                    <tr>
+                        <td pEditableColumn>
+                            <p-cellEditor>
+                                <ng-template pTemplate="input">
+                                    <input pInputText type="text" [(ngModel)]="departmentCode.DepartmentCode">
+                                </ng-template>
+                                <ng-template pTemplate="output">
+                                    {{departmentCode.DepartmentCode}}
+                                </ng-template>
+                            </p-cellEditor>
+                        </td>
+                        <td pEditableColumn>
+                            <p-cellEditor>
+                                <ng-template pTemplate="input">
+                                    <input pInputText type="text" [(ngModel)]="departmentCode.CC" required>
+                                </ng-template>
+                                <ng-template pTemplate="output">
+                                    {{departmentCode.CC}}
+                                </ng-template>
+                            </p-cellEditor>
+                        </td>
+                        <td pEditableColumn>
+                            <p-cellEditor>
+                                <ng-template pTemplate="input">
+                                    <input pInputText [(ngModel)]="departmentCode.SubjectTP">
+                                </ng-template>
+                                <ng-template pTemplate="output">
+                                    {{departmentCode.SubjectTP}}
+                                </ng-template>
+                            </p-cellEditor>
+                        </td>
+                        <td pEditableColumn>
+                            <p-cellEditor>
+                                <ng-template pTemplate="input">
+                                    <input pInputText type="text" [(ngModel)]="departmentCode.BCC">
+                                </ng-template>
+                                <ng-template pTemplate="output">
+                                    {{departmentCode.BCC}}
+                                </ng-template>
+                            </p-cellEditor>
+                        </td>
+                        <td pEditableColumn>
+                            <p-cellEditor>
+                                <ng-template pTemplate="input">
+                                    <input pInputText type="text" [(ngModel)]="departmentCode.SubjectControl">
+                                </ng-template>
+                                <ng-template pTemplate="output">
+                                    {{departmentCode.SubjectControl}}
+                                </ng-template>
+                            </p-cellEditor>
+                        </td>
+                        <td pEditableColumn>
+                            <p-cellEditor>
+                                <ng-template pTemplate="input">
+                                    <input pInputText type="text" [(ngModel)]="departmentCode.To">
+                                </ng-template>
+                                <ng-template pTemplate="output">
+                                    {{departmentCode.To}}
+                                </ng-template>
+                            </p-cellEditor>
+                        </td>
+                        <td pEditableColumn>
+                            <p-cellEditor>
+                                <ng-template pTemplate="input">
+                                    <input pInputText type="text" [(ngModel)]="departmentCode.From">
+                                </ng-template>
+                                <ng-template pTemplate="output">
+                                    {{departmentCode.From}}
+                                </ng-template>
+                            </p-cellEditor>
+                        </td>
+                    </tr>
+                </ng-template>
+            </p-table>
+        </div>
+    </div>
+</div>
+
+
+
+
+<!-- 
+<p-panel>
+    <p-table [value]="this.departmentCodes">
+        <ng-template pTemplate="header">
+            <tr>
+                <th>DepartmentCode</th>
+                <th>CC</th>
+                <th>SubjectTP</th>
+                <th>BCC</th>
+            </tr>
+        </ng-template>
+        <ng-template pTemplate="body" let-departmentCode>
+            <tr>
+                <td>{{departmentCode.DepartmentCode}}</td>
+                <td>{{departmentCode.CC}}</td>
+                <td>{{departmentCode.SubjectTP}}</td>
+                <td>{{departmentCode.BCC}}</td>
+            </tr>
+        </ng-template>
+    </p-table>
+</p-panel>
+ -->

@@ -1,0 +1,2126 @@
+{
+  "DepartmentCodes" : [ {
+    "DepartmentCode" : "Aflossen",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com"
+  }, {
+    "DepartmentCode" : "BLS",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com"
+  }, {
+    "DepartmentCode" : "Debiteuren",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com"
+  }, {
+    "DepartmentCode" : "FOS",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com"
+  }, {
+    "DepartmentCode" : "NPZ.",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com"
+  }, {
+    "DepartmentCode" : "Ontvangsten",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com"
+  }, {
+    "DepartmentCode" : "VBB",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com"
+  }, {
+    "DepartmentCode" : "VBP",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com"
+  }, {
+    "DepartmentCode" : "escalation Aflossen",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com"
+  }, {
+    "DepartmentCode" : "escalation BLS",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com"
+  }, {
+    "DepartmentCode" : "escalation Debiteuren",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com"
+  }, {
+    "DepartmentCode" : "escalation FOS",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com"
+  }, {
+    "DepartmentCode" : "escalation NPZ",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com"
+  }, {
+    "DepartmentCode" : "escalation Ontvangsten",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com"
+  }, {
+    "DepartmentCode" : "escalation VBB",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com"
+  }, {
+    "DepartmentCode" : "escalation VBP",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com"
+  }, {
+    "DepartmentCode" : "Aflossen2",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com"
+  }, {
+    "DepartmentCode" : "CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com"
+  } ],
+  "LetterCodes" : [ {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "0"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "4"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "5"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "6"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "7"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "8"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "12"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "16"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "17"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "19"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "20"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "21"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "22"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "25"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "30"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "31"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "42"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "43"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "44"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "45"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "46"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "49"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "53"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "56"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "57"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "58"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "60"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "61"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "63"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "64"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "66"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "75"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "76"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "77"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "78"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "80"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "81"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "82"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "85"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "100"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "101"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "102"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "104"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "110"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "140"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "141"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "142"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "200"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "201"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "202"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "204"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "205"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "206"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "207"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "219"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "222"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "240"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "250"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "260"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "265"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "268"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "270"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "301"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "303"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "305"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "400"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "401"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "508"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "513"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "514"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "515"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "516"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "517"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "547"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "551"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "552"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "553"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "554"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "558"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "559"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "562"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "563"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "566"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "568"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "571"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "572"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "573"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "620"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "622"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "623"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "627"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "628"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "640"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "651"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "652"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "653"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "654"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "655"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "657"
+  }, {
+    "DepartmentCode" : "escalation CC",
+    "CC" : "",
+    "SubjectTP" : "TP mail from DPC",
+    "BCC" : "",
+    "SubjectControl" : "Control mail from DPC",
+    "To" : "dpc@stater.com",
+    "From" : "DPCTEST@stater.com",
+    "LetterCode" : "658"
+  } ],
+  "EnvelopCodes" : [ {
+    "Type" : "0",
+    "Description" : "Testing",
+    "MaxCountPages" : "0",
+    "EnvelopCode" : "0",
+    "Weight" : "0"
+  }, {
+    "Type" : "C6",
+    "Description" : "Bouwfonds Hypotheken DL HY 0205",
+    "MaxCountPages" : "5",
+    "EnvelopCode" : "5",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Bouwfonds Hypotheken HY 0201",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "4",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Delta Lloyd rentewijziging",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "33",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Bouwfonds Hypotheken jaaropgave",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "44",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Delta Lloyd A17.5.50-1204",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "6",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Triahome Hypotheken G 17.4.04/1002",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "16",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "OHRA  FD0600 1005",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "13",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Stater S222",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "15",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Obvion 38.0011.02",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "12",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "ELQ Hypotheken",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "7",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Moneyou Hypotheken MY0201",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "1001",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Bank of Scotland ",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "3",
+    "Weight" : "7"
+  }, {
+    "Type" : "C4",
+    "Description" : "Bouwfonds Hypotheken C4",
+    "MaxCountPages" : "21",
+    "EnvelopCode" : "1002",
+    "Weight" : "-1"
+  }, {
+    "Type" : "C4",
+    "Description" : "Stater C4",
+    "MaxCountPages" : "20",
+    "EnvelopCode" : "1003",
+    "Weight" : "-1"
+  }, {
+    "Type" : "C4",
+    "Description" : "Obvion C4",
+    "MaxCountPages" : "29",
+    "EnvelopCode" : "1004",
+    "Weight" : "-1"
+  }, {
+    "Type" : "C5",
+    "Description" : "Varianova G17.4.07-0505",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "17",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "SKP Solide Koersprogramma G 17.4.08/0706",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "14",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Younique van Robeco",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "18",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "MoneYou",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "11",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "HvO",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "9",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Florius FLO201 C5",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "23",
+    "Weight" : "7"
+  }, {
+    "Type" : "C6",
+    "Description" : "Florius FLO204 ola",
+    "MaxCountPages" : "5",
+    "EnvelopCode" : "24",
+    "Weight" : "7"
+  }, {
+    "Type" : "C4",
+    "Description" : "Florius FLO203 C4",
+    "MaxCountPages" : "21",
+    "EnvelopCode" : "25",
+    "Weight" : "-1"
+  }, {
+    "Type" : "C5",
+    "Description" : "Robeco",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "29",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "AAB",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "30",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Florius FL0218",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "26",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "ELQ-nieuw",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "31",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "AAB nieuw",
+    "MaxCountPages" : "8",
+    "EnvelopCode" : "20",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Ditzo",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "32",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "OHRA ",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "37",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "ASR",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "38",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Robeco",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "40",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Solveon",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "39",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Deutsche Bank",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "42",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Obvion New",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "46",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Moneyou",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "47",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "ASR",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "28",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Ohra",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "48",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Robeco",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "49",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "CMIS",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "50",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "NIBC",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "51",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Atlas",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "52",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "ASR",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "54",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Delta Lloyd",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "53",
+    "Weight" : "7"
+  }, {
+    "Type" : "C5",
+    "Description" : "Roparco",
+    "MaxCountPages" : "7",
+    "EnvelopCode" : "55",
+    "Weight" : "7"
+  } ],
+  "MediaCodes" : [ {
+    "Description" : "<geen>",
+    "XvalueWindow" : "0",
+    "YvalueWindow" : "0",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "0",
+    "CodeOnFront" : "False",
+    "XvalueLetter" : "0",
+    "MediaCode" : "0",
+    "Weight" : "0"
+  }, {
+    "Description" : "Blanco",
+    "XvalueWindow" : "103",
+    "YvalueWindow" : "63",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "1",
+    "Weight" : "5"
+  }, {
+    "Description" : "ABN AMRO",
+    "XvalueWindow" : "93",
+    "YvalueWindow" : "63",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "2",
+    "Weight" : "5"
+  }, {
+    "Description" : "BoS",
+    "XvalueWindow" : "101",
+    "YvalueWindow" : "53",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "3",
+    "Weight" : "6"
+  }, {
+    "Description" : "Delta Lloyd",
+    "XvalueWindow" : "73",
+    "YvalueWindow" : "100",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "6",
+    "Weight" : "5"
+  }, {
+    "Description" : "GMAC",
+    "XvalueWindow" : "103",
+    "YvalueWindow" : "63",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "8",
+    "Weight" : "5"
+  }, {
+    "Description" : "HvO",
+    "XvalueWindow" : "74",
+    "YvalueWindow" : "102",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "150",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "9",
+    "Weight" : "5"
+  }, {
+    "Description" : "HypoHuis",
+    "XvalueWindow" : "93",
+    "YvalueWindow" : "63",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "10",
+    "Weight" : "5"
+  }, {
+    "Description" : "MoneYou",
+    "XvalueWindow" : "103",
+    "YvalueWindow" : "80",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "11",
+    "Weight" : "5"
+  }, {
+    "Description" : "Obvion",
+    "XvalueWindow" : "100",
+    "YvalueWindow" : "52",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "12",
+    "Weight" : "6"
+  }, {
+    "Description" : "Ohra",
+    "XvalueWindow" : "75",
+    "YvalueWindow" : "80",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "13",
+    "Weight" : "5"
+  }, {
+    "Description" : "SKP",
+    "XvalueWindow" : "100",
+    "YvalueWindow" : "53",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "14",
+    "Weight" : "5"
+  }, {
+    "Description" : "Stater",
+    "XvalueWindow" : "98",
+    "YvalueWindow" : "80",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "15",
+    "Weight" : "5"
+  }, {
+    "Description" : "Triahome",
+    "XvalueWindow" : "100",
+    "YvalueWindow" : "52",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "16",
+    "Weight" : "6"
+  }, {
+    "Description" : "Varianova",
+    "XvalueWindow" : "100",
+    "YvalueWindow" : "55",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "17",
+    "Weight" : "6"
+  }, {
+    "Description" : "Zwitserleven blauw",
+    "XvalueWindow" : "98",
+    "YvalueWindow" : "80",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "19",
+    "Weight" : "5"
+  }, {
+    "Description" : "DBV",
+    "XvalueWindow" : "132",
+    "YvalueWindow" : "63",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "105",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "20",
+    "Weight" : "6"
+  }, {
+    "Description" : "Bouwfonds HY0114",
+    "XvalueWindow" : "95",
+    "YvalueWindow" : "75",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "False",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "21",
+    "Weight" : "8"
+  }, {
+    "Description" : "Zwitserleven  kopie polis",
+    "XvalueWindow" : "132",
+    "YvalueWindow" : "56",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "22",
+    "Weight" : "5"
+  }, {
+    "Description" : "Axa",
+    "XvalueWindow" : "132",
+    "YvalueWindow" : "56",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "23",
+    "Weight" : "5"
+  }, {
+    "Description" : "EuropeLife",
+    "XvalueWindow" : "132",
+    "YvalueWindow" : "56",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "24",
+    "Weight" : "6"
+  }, {
+    "Description" : "SFB verz.",
+    "XvalueWindow" : "132",
+    "YvalueWindow" : "56",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "25",
+    "Weight" : "5"
+  }, {
+    "Description" : "Delta Lloyd Saldo opgave",
+    "XvalueWindow" : "73",
+    "YvalueWindow" : "100",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "106",
+    "Weight" : "5"
+  }, {
+    "Description" : "HVO Saldo opgave",
+    "XvalueWindow" : "74",
+    "YvalueWindow" : "102",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "109",
+    "Weight" : "5"
+  }, {
+    "Description" : "MoneYou saldo opgave",
+    "XvalueWindow" : "103",
+    "YvalueWindow" : "80",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "111",
+    "Weight" : "5"
+  }, {
+    "Description" : "Obvion Saldo opgave",
+    "XvalueWindow" : "100",
+    "YvalueWindow" : "52",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "146",
+    "Weight" : "6"
+  }, {
+    "Description" : "OHRA Saldo opgave",
+    "XvalueWindow" : "75",
+    "YvalueWindow" : "80",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "113",
+    "Weight" : "5"
+  }, {
+    "Description" : "SKP Saldo  opgave",
+    "XvalueWindow" : "100",
+    "YvalueWindow" : "53",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "114",
+    "Weight" : "5"
+  }, {
+    "Description" : "Stater Saldo opgave zonder Spaar",
+    "XvalueWindow" : "98",
+    "YvalueWindow" : "80",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "115",
+    "Weight" : "5"
+  }, {
+    "Description" : "Triahome Saldo opgave",
+    "XvalueWindow" : "100",
+    "YvalueWindow" : "52",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "116",
+    "Weight" : "6"
+  }, {
+    "Description" : "Stater Saldo opgave met Spaar",
+    "XvalueWindow" : "98",
+    "YvalueWindow" : "80",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "130",
+    "Weight" : "5"
+  }, {
+    "Description" : "Florius FLO101",
+    "XvalueWindow" : "95",
+    "YvalueWindow" : "75",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "26",
+    "Weight" : "5"
+  }, {
+    "Description" : "Florius FLO103 (OLA)",
+    "XvalueWindow" : "95",
+    "YvalueWindow" : "75",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "188.3",
+    "CodeOnFront" : "False",
+    "XvalueLetter" : "187.7",
+    "MediaCode" : "27",
+    "Weight" : "5"
+  }, {
+    "Description" : "Florius Saldo opgave",
+    "XvalueWindow" : "95",
+    "YvalueWindow" : "75",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "126",
+    "Weight" : "5"
+  }, {
+    "Description" : "Florius FLO105 (Reaal)",
+    "XvalueWindow" : "95",
+    "YvalueWindow" : "75",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "188.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "28",
+    "Weight" : "5"
+  }, {
+    "Description" : "AAB",
+    "XvalueWindow" : "101",
+    "YvalueWindow" : "53",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "30",
+    "Weight" : "5"
+  }, {
+    "Description" : "ELQ",
+    "XvalueWindow" : "100",
+    "YvalueWindow" : "50",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "31",
+    "Weight" : "6"
+  }, {
+    "Description" : "AAB Saldo opgave",
+    "XvalueWindow" : "97",
+    "YvalueWindow" : "78",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "100",
+    "Weight" : "5"
+  }, {
+    "Description" : "Varianova Saldo opgave",
+    "XvalueWindow" : "100",
+    "YvalueWindow" : "55",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "117",
+    "Weight" : "6"
+  }, {
+    "Description" : "Stater Podium 1",
+    "XvalueWindow" : "98",
+    "YvalueWindow" : "80",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "35",
+    "Weight" : "5"
+  }, {
+    "Description" : "Ditzo Briefpapier",
+    "XvalueWindow" : "100",
+    "YvalueWindow" : "52",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "32",
+    "Weight" : "6"
+  }, {
+    "Description" : "Ditzo Volgpapier",
+    "XvalueWindow" : "100",
+    "YvalueWindow" : "52",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "36",
+    "Weight" : "6"
+  }, {
+    "Description" : "Bos Saldo opgave",
+    "XvalueWindow" : "101",
+    "YvalueWindow" : "53",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "105",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "103",
+    "Weight" : "6"
+  }, {
+    "Description" : "Stater Saldo opgave (met spaar)",
+    "XvalueWindow" : "98",
+    "YvalueWindow" : "80",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "135",
+    "Weight" : "5"
+  }, {
+    "Description" : "Stater Saldo opgave (zonder spaar)",
+    "XvalueWindow" : "98",
+    "YvalueWindow" : "80",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "127",
+    "Weight" : "5"
+  }, {
+    "Description" : "OHRA",
+    "XvalueWindow" : "75",
+    "YvalueWindow" : "80",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "37",
+    "Weight" : "5"
+  }, {
+    "Description" : "ASR",
+    "XvalueWindow" : "100",
+    "YvalueWindow" : "53",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "38",
+    "Weight" : "5"
+  }, {
+    "Description" : "OHRA Saldo opgave",
+    "XvalueWindow" : "75",
+    "YvalueWindow" : "80",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "137",
+    "Weight" : "5"
+  }, {
+    "Description" : "ASR Saldo opgave",
+    "XvalueWindow" : "100",
+    "YvalueWindow" : "53",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "138",
+    "Weight" : "5"
+  }, {
+    "Description" : "Robeco",
+    "XvalueWindow" : "178",
+    "YvalueWindow" : "50",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "40",
+    "Weight" : "6"
+  }, {
+    "Description" : "Robeco Saldo opgave",
+    "XvalueWindow" : "178",
+    "YvalueWindow" : "50",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "140",
+    "Weight" : "6"
+  }, {
+    "Description" : "Solveon",
+    "XvalueWindow" : "101",
+    "YvalueWindow" : "53",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "39",
+    "Weight" : "5"
+  }, {
+    "Description" : "Reaal Zwitserleven",
+    "XvalueWindow" : "98",
+    "YvalueWindow" : "80",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "41",
+    "Weight" : "5"
+  }, {
+    "Description" : "Deutsche Bank",
+    "XvalueWindow" : "95",
+    "YvalueWindow" : "75",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "42",
+    "Weight" : "6"
+  }, {
+    "Description" : "Reaal verzekeringen",
+    "XvalueWindow" : "98",
+    "YvalueWindow" : "80",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "43",
+    "Weight" : "5"
+  }, {
+    "Description" : "Reaal",
+    "XvalueWindow" : "98",
+    "YvalueWindow" : "80",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "44",
+    "Weight" : "5"
+  }, {
+    "Description" : "Deutsche Bank",
+    "XvalueWindow" : "95",
+    "YvalueWindow" : "75",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "45",
+    "Weight" : "6"
+  }, {
+    "Description" : "Obvion New",
+    "XvalueWindow" : "100",
+    "YvalueWindow" : "52",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "46",
+    "Weight" : "6"
+  }, {
+    "Description" : "Obvion",
+    "XvalueWindow" : "100",
+    "YvalueWindow" : "52",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "112",
+    "Weight" : "6"
+  }, {
+    "Description" : "Moneyou",
+    "XvalueWindow" : "103",
+    "YvalueWindow" : "80",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "47",
+    "Weight" : "5"
+  }, {
+    "Description" : "Moneyou Saldo",
+    "XvalueWindow" : "103",
+    "YvalueWindow" : "80",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "147",
+    "Weight" : "5"
+  }, {
+    "Description" : "OHRA",
+    "XvalueWindow" : "75",
+    "YvalueWindow" : "80",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "284.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "48",
+    "Weight" : "5"
+  }, {
+    "Description" : "OHRA Saldo",
+    "XvalueWindow" : "75",
+    "YvalueWindow" : "80",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "148",
+    "Weight" : "5"
+  }, {
+    "Description" : "Robeco",
+    "XvalueWindow" : "178",
+    "YvalueWindow" : "50",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "49",
+    "Weight" : "6"
+  }, {
+    "Description" : "CMIS",
+    "XvalueWindow" : "100",
+    "YvalueWindow" : "52",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "50",
+    "Weight" : "6"
+  }, {
+    "Description" : "NIBC",
+    "XvalueWindow" : "100",
+    "YvalueWindow" : "52",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "51",
+    "Weight" : "6"
+  }, {
+    "Description" : "Atlas",
+    "XvalueWindow" : "100",
+    "YvalueWindow" : "52",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "52",
+    "Weight" : "6"
+  }, {
+    "Description" : "ASR",
+    "XvalueWindow" : "100",
+    "YvalueWindow" : "53",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "54",
+    "Weight" : "5"
+  }, {
+    "Description" : "Delta Lloyd",
+    "XvalueWindow" : "73",
+    "YvalueWindow" : "100",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "53",
+    "Weight" : "5"
+  }, {
+    "Description" : "Roparco",
+    "XvalueWindow" : "178",
+    "YvalueWindow" : "50",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "55",
+    "Weight" : "6"
+  }, {
+    "Description" : "Roparco Saldo",
+    "XvalueWindow" : "178",
+    "YvalueWindow" : "50",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "155",
+    "Weight" : "6"
+  }, {
+    "Description" : "Foirius",
+    "XvalueWindow" : "95",
+    "YvalueWindow" : "75",
+    "ExtraTextPositionY" : "8",
+    "ExtraTextPositionX" : "0",
+    "YvalueLetter" : "248.3",
+    "CodeOnFront" : "True",
+    "XvalueLetter" : "195.8",
+    "MediaCode" : "85",
+    "Weight" : "5"
+  } ]
+}

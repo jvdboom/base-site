@@ -1,0 +1,92 @@
+{
+	"DepartmentCodes": [
+		{
+			"DepartmentCode": "d",
+			"CC": "",
+			"SubjectTP": "TP mail from DPC",
+			"BCC": "",
+			"SubjectControl": "Control mail from DPC",
+			"To": "dpc@stater.com",
+			"From": "DPCTEST@stater.com"
+		},
+		{
+			"DepartmentCode": "a",
+			"CC": "",
+			"SubjectTP": "TP mail from DPC",
+			"BCC": "",
+			"SubjectControl": "Control mail from DPC",
+			"To": "dpc@stater.com",
+			"From": "DPCTEST@stater.com"
+		},
+		{
+			"DepartmentCode": "b",
+			"CC": "",
+			"SubjectTP": "TP mail from DPC",
+			"BCC": "",
+			"SubjectControl": "Mail from DPC",
+			"To": "dpc@stater.com",
+			"From": "DPCTEST@stater.com"
+		},
+		{
+			"DepartmentCode": "c",
+			"CC": "",
+			"SubjectTP": "TP mail from DPC",
+			"BCC": "",
+			"SubjectControl": "Control mail from DPC",
+			"To": "dpc@stater.com",
+			"From": "DPCTEST@stater.com"
+		}
+	],
+	"LetterCodes": [
+		{
+			"LetterCode": "0",
+			"PostCode": "24"
+		},
+		{
+			"LetterCode": "4",
+			"PostCode": "24"
+		}
+	],
+	"EnvelopCodes": [
+		{
+			"Type": "0",
+			"Description": "Testing",
+			"MaxCountPages": "0",
+			"EnvelopCode": "0",
+			"Weight": "0"
+		},
+		{
+			"Type": "C6",
+			"Description": "Bouwfonds Hypotheken DL HY 0205",
+			"MaxCountPages": "5",
+			"EnvelopCode": "5",
+			"Weight": "7"
+		}
+	],
+	"MediaCodes": [
+		{
+			"Description": "<geen>",
+			"XvalueWindow": "0",
+			"YvalueWindow": "0",
+			"ExtraTextPositionY": "8",
+			"ExtraTextPositionX": "0",
+			"YvalueLetter": "0",
+			"CodeOnFront": "False",
+			"XvalueLetter": "0",
+			"MediaCode": "0",
+			"Weight": "0"
+		},
+		{
+			"Description": "Blanco",
+			"XvalueWindow": "103",
+			"YvalueWindow": "63",
+			"ExtraTextPositionY": "8",
+			"ExtraTextPositionX": "0",
+			"YvalueLetter": "248.3",
+			"CodeOnFront": "True",
+			"XvalueLetter": "195.8",
+			"MediaCode": "1",
+			"Weight": "5"
+		}
+	]
+}

@@ -1,0 +1,135 @@
+<div class="col-10">
+    <button pButton type="button" label="Save" (click)="handleClick($event)"></button>
+</div>
+<div class="grid">
+    <div class="col-2">
+        <h2>Mediacodes</h2>
+    </div>
+    <!-- <div class="col-10">
+        <button pButton type="button" label="Save" (click)="handleClick($event)"></button>
+    </div> -->
+    <div class="col-11">
+        <div class="card">
+            <p-table [value]="this.mediaCodes" dataKey="MediaCode" [autoLayout]="true">
+                <ng-template pTemplate="header">
+                    <tr>
+                        <th pSortableColumn="MediaCode">MediaCode<p-sortIcon field="code"></p-sortIcon></th>
+                        <th>Description</th>
+                        <th>XvalueWindow</th>
+                        <th>YvalueWindow</th>
+                        <th>ExtraTextPositionY</th>
+                        <th>ExtraTextPositionX</th>
+                        <th>YvalueLetter</th>
+                        <th>CodeOnFront</th>
+                        <th>XvalueLetter</th>
+                        <th>Weight</th>
+                    </tr>
+                </ng-template>
+                <ng-template pTemplate="body" let-mediaCode>
+                    <tr>
+                        <td pEditableColumn>
+                            <p-cellEditor style="width:6rem">
+                                <ng-template pTemplate="input" style="width:6rem">
+                                    <input pInputText type="text" [(ngModel)]="mediaCode.MediaCode">
+                                </ng-template>
+                                <ng-template pTemplate="output" style="width:6rem">
+                                    {{mediaCode.MediaCode}}
+                                </ng-template>
+                            </p-cellEditor>
+                        </td>
+                        <td pEditableColumn>
+                            <p-cellEditor>
+                                <ng-template pTemplate="input">
+                                    <input pInputText type="text" [(ngModel)]="mediaCode.Description">
+                                </ng-template>
+                                <ng-template pTemplate="output">
+                                    {{mediaCode.Description}}
+                                </ng-template>
+                            </p-cellEditor>
+                        </td>
+                        <td pEditableColumn>
+                            <p-cellEditor>
+                                <ng-template pTemplate="input">
+                                    <input pInputText type="text" [(ngModel)]="mediaCode.XvalueWindow" reqluired>
+                                </ng-template>
+                                <ng-template pTemplate="output">
+                                    {{mediaCode.XvalueWindow}}
+                                </ng-template>
+                            </p-cellEditor>
+                        </td>
+                        <td pEditableColumn>
+                            <p-cellEditor>
+                                <ng-template pTemplate="input">
+                                    <input pInputText [(ngModel)]="mediaCode.YvalueWindow">
+                                </ng-template>
+                                <ng-template pTemplate="output">
+                                    {{mediaCode.YvalueWindow}}
+                                </ng-template>
+                            </p-cellEditor>
+                        </td>
+                        <td pEditableColumn>
+                            <p-cellEditor>
+                                <ng-template pTemplate="input">
+                                    <input pInputText type="text" [(ngModel)]="mediaCode.ExtraTextPositionY">
+                                </ng-template>
+                                <ng-template pTemplate="output">
+                                    {{mediaCode.ExtraTextPositionY}}
+                                </ng-template>
+                            </p-cellEditor>
+                        </td>
+                        <td pEditableColumn>
+                            <p-cellEditor>
+                                <ng-template pTemplate="input">
+                                    <input pInputText type="text" [(ngModel)]="mediaCode.ExtraTextPositionX">
+                                </ng-template>
+                                <ng-template pTemplate="output">
+                                    {{mediaCode.ExtraTextPositionX}}
+                                </ng-template>
+                            </p-cellEditor>
+                        </td>
+                        <td pEditableColumn>
+                            <p-cellEditor>
+                                <ng-template pTemplate="input">
+                                    <input pInputText type="text" [(ngModel)]="mediaCode.YvalueLetter">
+                                </ng-template>
+                                <ng-template pTemplate="output">
+                                    {{mediaCode.YvalueLetter}}
+                                </ng-template>
+                            </p-cellEditor>
+                        </td>
+                        <td pEditableColumn>
+                            <p-cellEditor>
+                                <ng-template pTemplate="input">
+                                    <input pInputText type="text" [(ngModel)]="mediaCode.CodeOnFront">
+                                </ng-template>
+                                <ng-template pTemplate="output">
+                                    {{mediaCode.CodeOnFront}}
+                                </ng-template>
+                            </p-cellEditor>
+                        </td>
+                        <td pEditableColumn>
+                            <p-cellEditor>
+                                <ng-template pTemplate="input">
+                                    <input pInputText type="text" [(ngModel)]="mediaCode.XvalueLetter">
+                                </ng-template>
+                                <ng-template pTemplate="output">
+                                    {{mediaCode.XvalueLetter}}
+                                </ng-template>
+                            </p-cellEditor>
+                        </td>
+                        <td pEditableColumn>
+                            <p-cellEditor>
+                                <ng-template pTemplate="input">
+                                    <input pInputText type="text" [(ngModel)]="mediaCode.Weight">
+                                </ng-template>
+                                <ng-template pTemplate="output">
+                                    {{mediaCode.Weight}}
+                                </ng-template>
+                            </p-cellEditor>
+                        </td>
+                    </tr>
+                </ng-template>
+            </p-table>
+        </div>
+    </div>
+</div>
